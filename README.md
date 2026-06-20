@@ -387,4 +387,5 @@ P(O(D+C(((True<<True<<True<<True<<True<<True)+(True<<True<<True<<True)+(True<<Tr
 
 ![alt text](images/image-7.png)
 
+
 >KMACTF{n0_str1ng_n0_num_bu1lt1ns_3sc4p3_py_j41l_1337}
